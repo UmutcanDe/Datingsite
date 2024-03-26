@@ -2,7 +2,7 @@
 //it allows any type of database.
 
 define("serverName", "localhost:3306");
-define("database", "net24udemirez_datingdb");
+define("database", "net24udemirez_datingdbs");
 define("username", "root");
 define("password", "");    
 define("connectionString", "mysql:host=" . "serverName" . ";dbname=" . database);
